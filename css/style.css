@@ -182,6 +182,7 @@ section{
 
 .home .content{
   flex:1 1 40rem;
+  padding-left: 5rem;
 }
 
 .home .content span{
@@ -373,11 +374,12 @@ section{
 }
 
 .deal-container{
-  background:url(../images/deal-bg.jpg) no-repeat;
+  background:url(../images/Mangonada\ Banner.jpg) no-repeat;
   background-position: center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
+  height: 40rem;
 }
 
 .deal .content{
